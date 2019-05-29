@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 second demo
 kelly institute
 new line added
+=======
+jhjkhgs
+sjghojre
+>>>>>>> bc8bcb7dd9936559cd76cad3e667f1ffc2bedcd6
